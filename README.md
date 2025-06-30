@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning b.tech ECE
 - 💞️ I’m looking to collaborate on new innovative projects
 - 📫 How to reach me @realsatvik@outlook.com
-- 😄 Pronouns: LEGEN/DARY
-- ⚡ Fun fact: i love football
 
 <!---
 satvikbhatti/satvikbhatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
